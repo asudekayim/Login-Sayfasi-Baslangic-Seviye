@@ -1,0 +1,38 @@
+C:\Users\asude\OneDrive\Masaüstü\Udemy C#\Dosya İşlemleri\Gelecegi Yazanlar 2\bin\Debug\net6.0-windows\Gelecegi Yazanlar 2.exe
+C:\Users\asude\OneDrive\Masaüstü\Udemy C#\Dosya İşlemleri\Gelecegi Yazanlar 2\bin\Debug\net6.0-windows\Gelecegi Yazanlar 2.deps.json
+C:\Users\asude\OneDrive\Masaüstü\Udemy C#\Dosya İşlemleri\Gelecegi Yazanlar 2\bin\Debug\net6.0-windows\Gelecegi Yazanlar 2.runtimeconfig.json
+C:\Users\asude\OneDrive\Masaüstü\Udemy C#\Dosya İşlemleri\Gelecegi Yazanlar 2\bin\Debug\net6.0-windows\Gelecegi Yazanlar 2.dll
+C:\Users\asude\OneDrive\Masaüstü\Udemy C#\Dosya İşlemleri\Gelecegi Yazanlar 2\bin\Debug\net6.0-windows\Gelecegi Yazanlar 2.pdb
+C:\Users\asude\OneDrive\Masaüstü\Udemy C#\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi_Yazanlar_2.Form1.resources
+C:\Users\asude\OneDrive\Masaüstü\Udemy C#\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi_Yazanlar_2.Form2.resources
+C:\Users\asude\OneDrive\Masaüstü\Udemy C#\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi Yazanlar 2.csproj.GenerateResource.cache
+C:\Users\asude\OneDrive\Masaüstü\Udemy C#\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi Yazanlar 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asude\OneDrive\Masaüstü\Udemy C#\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi Yazanlar 2.AssemblyInfoInputs.cache
+C:\Users\asude\OneDrive\Masaüstü\Udemy C#\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi Yazanlar 2.AssemblyInfo.cs
+C:\Users\asude\OneDrive\Masaüstü\Udemy C#\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi Yazanlar 2.csproj.CoreCompileInputs.cache
+C:\Users\asude\OneDrive\Masaüstü\Udemy C#\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi Yazanlar 2.dll
+C:\Users\asude\OneDrive\Masaüstü\Udemy C#\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\refint\Gelecegi Yazanlar 2.dll
+C:\Users\asude\OneDrive\Masaüstü\Udemy C#\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi Yazanlar 2.pdb
+C:\Users\asude\OneDrive\Masaüstü\Udemy C#\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi Yazanlar 2.genruntimeconfig.cache
+C:\Users\asude\OneDrive\Masaüstü\Udemy C#\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\ref\Gelecegi Yazanlar 2.dll
+C:\Users\asude\OneDrive\Masaüstü\Udemy C#\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi_Yazanlar_2.Form3.resources
+C:\Users\asude\OneDrive\Masaüstü\Udemy C#\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi_Yazanlar_2.Properties.Resources.resources
+C:\Users\asude\OneDrive\Masaüstü\C# projelerim\Dosya İşlemleri\Gelecegi Yazanlar 2\bin\Debug\net6.0-windows\Gelecegi Yazanlar 2.exe
+C:\Users\asude\OneDrive\Masaüstü\C# projelerim\Dosya İşlemleri\Gelecegi Yazanlar 2\bin\Debug\net6.0-windows\Gelecegi Yazanlar 2.deps.json
+C:\Users\asude\OneDrive\Masaüstü\C# projelerim\Dosya İşlemleri\Gelecegi Yazanlar 2\bin\Debug\net6.0-windows\Gelecegi Yazanlar 2.runtimeconfig.json
+C:\Users\asude\OneDrive\Masaüstü\C# projelerim\Dosya İşlemleri\Gelecegi Yazanlar 2\bin\Debug\net6.0-windows\Gelecegi Yazanlar 2.dll
+C:\Users\asude\OneDrive\Masaüstü\C# projelerim\Dosya İşlemleri\Gelecegi Yazanlar 2\bin\Debug\net6.0-windows\Gelecegi Yazanlar 2.pdb
+C:\Users\asude\OneDrive\Masaüstü\C# projelerim\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi_Yazanlar_2.Form1.resources
+C:\Users\asude\OneDrive\Masaüstü\C# projelerim\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi_Yazanlar_2.Form2.resources
+C:\Users\asude\OneDrive\Masaüstü\C# projelerim\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi_Yazanlar_2.Form3.resources
+C:\Users\asude\OneDrive\Masaüstü\C# projelerim\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi_Yazanlar_2.Properties.Resources.resources
+C:\Users\asude\OneDrive\Masaüstü\C# projelerim\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi Yazanlar 2.csproj.GenerateResource.cache
+C:\Users\asude\OneDrive\Masaüstü\C# projelerim\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi Yazanlar 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asude\OneDrive\Masaüstü\C# projelerim\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi Yazanlar 2.AssemblyInfoInputs.cache
+C:\Users\asude\OneDrive\Masaüstü\C# projelerim\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi Yazanlar 2.AssemblyInfo.cs
+C:\Users\asude\OneDrive\Masaüstü\C# projelerim\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi Yazanlar 2.csproj.CoreCompileInputs.cache
+C:\Users\asude\OneDrive\Masaüstü\C# projelerim\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi Yazanlar 2.dll
+C:\Users\asude\OneDrive\Masaüstü\C# projelerim\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\refint\Gelecegi Yazanlar 2.dll
+C:\Users\asude\OneDrive\Masaüstü\C# projelerim\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi Yazanlar 2.pdb
+C:\Users\asude\OneDrive\Masaüstü\C# projelerim\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\Gelecegi Yazanlar 2.genruntimeconfig.cache
+C:\Users\asude\OneDrive\Masaüstü\C# projelerim\Dosya İşlemleri\Gelecegi Yazanlar 2\obj\Debug\net6.0-windows\ref\Gelecegi Yazanlar 2.dll
